@@ -41,7 +41,7 @@ The major driving factors for Defaulters are:
 
 
 ## Contact
-Created by [@hitarthp1] and [@Sreeleela-Sappa] - feel free to contact me!
+Created by [@hitarthp1] and [@Sreeleela-Sappa] - feel free to contact us!
 
 
 <!-- Optional -->
