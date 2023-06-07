@@ -27,6 +27,7 @@ The major driving factors for Defaulters are:
 - Interest Rates
 - Installments Range(800-100)
 - Debts with debt consolidation
+- Grade
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
